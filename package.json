@@ -1,0 +1,33 @@
+{
+  "name": "wealthhealth-components-datatable-courleciel",
+  "version": "1.0.1",
+  "description": "Un composant DataTable réutilisable pour React avec pagination, tri et recherche.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "babel src --out-dir dist",
+    "test": "echo 'Ajouter des tests ici !'"
+  },
+  "keywords": [
+    "datatable",
+    "table",
+    "pagination",
+    "react",
+    "search"
+  ],
+  "author": "Luc Perrot",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.25.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
