@@ -1,6 +1,6 @@
 {
-  "name": "@courleciel/modal",
-  "version": "1.0.2",
+  "name": "@courleciel/datatable",
+  "version": "1.0.3",
   "description": "Un composant DataTable réutilisable pour React avec pagination, tri et recherche.",
   "main": "dist/index.js",
   "module": "dist/index.js",
