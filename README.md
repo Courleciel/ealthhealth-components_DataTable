@@ -1,7 +1,7 @@
 
-# Composant DataTable - WealthHealth
+# @courleciel/datatable
 
-`wealthhealth-components-datatable-courleciel` est un composant React conçu pour afficher des tableaux avec des fonctionnalités avancées telles que la pagination, le tri et la recherche.
+`@courleciel/datatable` est un composant React conçu pour afficher des tableaux avec des fonctionnalités avancées telles que la pagination, le tri et la recherche.
 
 ---
 
@@ -10,7 +10,7 @@
 Installez le composant via npm :
 
 ```bash
-npm install wealthhealth-components-datatable-courleciel
+npm install @courleciel/datatable
 ```
 
 ---
