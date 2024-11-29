@@ -1,6 +1,6 @@
 {
-  "name": "wealthhealth-components-datatable-courleciel",
-  "version": "1.0.1",
+  "name": "@courleciel/modal",
+  "version": "1.0.2",
   "description": "Un composant DataTable réutilisable pour React avec pagination, tri et recherche.",
   "main": "dist/index.js",
   "module": "dist/index.js",
