@@ -93,7 +93,7 @@ const options = {
 ## 🔗 Liens
 
 - **[Dépôt GitHub](https://github.com/Courleciel/wealthhealth-components_DataTable)**
-- **[Package NPM](https://www.npmjs.com/package/wealthhealth-components-datatable-courleciel)**
+- **[Package NPM](https://www.npmjs.com/package/@courleciel/datatable)**
 
 ---
 
